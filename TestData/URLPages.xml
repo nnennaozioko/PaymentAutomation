@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<pages>
+  <Page>
+    <Page_Name>BaseURLLocal</Page_Name>
+    <Page_URL>https://www.longrichway.com/</Page_URL>
+  </Page>
+
+  <Page>
+    <Page_Name>BaseURL</Page_Name>
+    <Page_URL>#{BaseURL}#</Page_URL>
+  </Page>
+</pages>
